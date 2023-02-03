@@ -31,3 +31,8 @@ Resources to practise:
 1. https://www.freecodecamp.org/learn/
 2. https://www.codecademy.com/catalog/subject/web-development
 3. https://bigfrontend.dev/
+
+
+
+
+https://youtube.com/playlist?list=PLc4wrPq1HThGmw68FxL1NkkLO2g1O3-H3https://youtube.com/playlist?list=PLc4wrPq1HThGmw68FxL1NkkLO2g1O3-H3
